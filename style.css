@@ -246,7 +246,7 @@ body{
         list-style: none;
     }
 
-    .interests ul li span{
+    .interests span{
         color: #000000;
     }
 }
