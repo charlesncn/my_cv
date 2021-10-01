@@ -232,7 +232,7 @@ body{
     margin: 4px 0;
     list-style: none;
 }
-.interests span{
+.interests ul li span{
     color: #000000;
 }
 
