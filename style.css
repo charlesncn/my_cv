@@ -245,6 +245,10 @@ body{
     .interests ul li{
         list-style: none;
     }
+
+    .interests ul li span{
+        color: #000000;
+    }
 }
 
 @media (max-width: 768px){
