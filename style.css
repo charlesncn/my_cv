@@ -5,7 +5,6 @@
     box-sizing: border-box;
     text-decoration: none;
     font-family: "Poppins", sans-serif;
-    color: #000000;
 }
 
 body{
@@ -165,7 +164,7 @@ body{
 }
 
 .about p{
-    color: #ffffff;
+    color: #000000;
 }
 
 .about .box{
